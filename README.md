@@ -33,6 +33,14 @@ Documented and implemented the robot's electrical architecture, including
 power distribution, motor wiring, control electronics, and connections
 between electrical and mechanical systems.
 
+## Electrical Architecture
+
+![Robot Electrical Wiring Diagram]()
+
+The electrical architecture was designed around the RoboRIO and power
+distribution system, with dedicated connections for motors, sensors, and
+robot control electronics.
+
 ## CAD & Mechanical Design
 
 ![CAD model Shooter](images/shooter_CAD.png)

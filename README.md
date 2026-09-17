@@ -35,14 +35,14 @@ between electrical and mechanical systems.
 
 ## CAD & Mechanical Design
 
-![CAD model]()
+![CAD model Shooter](images/shooter_CAD.png)
 
 Designed and modified robot components and assemblies using CAD before
 fabrication.
 
 ## Fabrication
 
-![Fabrication]()
+![Fabrication using CNC Machine](images/CNC_machining_part.png)
 
 Fabricated robot components using CNC machining, woodworking, and other
 manual fabrication techniques.

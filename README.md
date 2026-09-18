@@ -43,7 +43,10 @@ robot control electronics.
 
 ## CAD & Mechanical Design
 
-![CAD model Shooter](images/shooter_CAD.png)
+![CAD model Shooter](mechanical/CAD/shooter_CAD.png)
+
+Worked on CAD model for the robot shooter, as well as other components like
+the hang component and main robot assembly.
 
 Designed and modified robot components and assemblies using CAD before
 fabrication.
@@ -55,15 +58,9 @@ fabrication.
 Fabricated robot components using CNC machining, woodworking, and other
 manual fabrication techniques.
 
-## Engineering Process
+## Technical Documentation
 
-1. Design
-2. CAD / electrical planning
-3. Prototype
-4. Fabricate
-5. Assemble
-6. Test
-7. Iterate
+
 
 ## Skills & Technologies
 

@@ -35,7 +35,7 @@ between electrical and mechanical systems.
 
 ## Electrical Architecture
 
-![Robot Electrical Wiring Diagram]()
+![Robot Electrical Wiring Diagram](electrical/wiring_diagrams/robot_electrical_diagram.png)
 
 The electrical architecture was designed around the RoboRIO and power
 distribution system, with dedicated connections for motors, sensors, and
@@ -60,7 +60,9 @@ manual fabrication techniques.
 
 ## Technical Documentation
 
-
+- [Electrical System](documentation)
+- [Mechanical Design](documentation)
+- [Fabrication](documentation)
 
 ## Skills & Technologies
 

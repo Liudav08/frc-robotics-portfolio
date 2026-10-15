@@ -53,7 +53,7 @@ fabrication.
 
 ## Fabrication
 
-![Fabrication using CNC Machine](images/CNC_machining_part.png)
+![Fabrication using CNC Machine](mechanical/fabrication/CNC_machining_part.png)
 
 Fabricated robot components using CNC machining, woodworking, and other
 manual fabrication techniques.
